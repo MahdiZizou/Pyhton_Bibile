@@ -6,4 +6,4 @@
 The source of Python_bible.py is what I learned from: 
 - Thenewboston: https://www.youtube.com/user/thenewboston
 - Udemy: https://www.udemy.com/share/101WgI2@PUdgZVxTS1wNcUZSOEtOVA==/
-- A Whirlwind Tour of Python book: A Whirlwind Tour of Python
+- A Whirlwind Tour of Python book: https://jakevdp.github.io/WhirlwindTourOfPython/
